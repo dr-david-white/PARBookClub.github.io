@@ -66,3 +66,20 @@ Use research to collect diverse perspectives and turn complex topics into relata
 Assess public interest in environmental games and find out if there's a market demand.
 Debate the appropriateness of card vs. board game formats.
 Reflect on the balance between complexity, fun, educational value, and potential impact.
+
+## Plan for next session (Wednesday 30th August 2023)
+
+#### 1. Review the data you have collected (probably as smaller groups, or one group depending on how many people)
+#### 2. Review existing board game concepts (I will bring some examples in), what do we think about using one of these as a format?
+#### 3. How can we use the data we have collected to inform our design (what are the key considerations?)
+#### 4. Brainstorm ideas:
+#### 4.1 an abstract, really high level, overview of a game idea based on ecologies / climate change
+#### 4.2 how can we apply that idea to a board game concept / genre?
+#### 5. Homework - collect more data (use the same form, but ask more specific questions related to this session) & reflect on this session
+
+## Next Session (Weds 11th October) LETS DESIGN A BOARD GAME
+
+END
+
+
+
