@@ -73,8 +73,8 @@ Reflect on the balance between complexity, fun, educational value, and potential
 #### 2. Review existing board game concepts (I will bring some examples in), what do we think about using one of these as a format?
 #### 3. How can we use the data we have collected to inform our design (what are the key considerations?)
 #### 4. Brainstorm ideas:
-#### 4.1 an abstract, really high level, overview of a game idea based on ecologies / climate change
-#### 4.2 how can we apply that idea to a board game concept / genre?
+  #### 4.1 an abstract, really high level, overview of a game idea based on ecologies / climate change
+  #### 4.2 how can we apply that idea to a board game concept / genre?
 #### 5. Homework - collect more data (use the same form, but ask more specific questions related to this session) & reflect on this session
 
 ## Next Session (Weds 11th October) LETS DESIGN A BOARD GAME
