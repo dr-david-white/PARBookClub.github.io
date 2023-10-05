@@ -72,7 +72,7 @@ Building a balance of species - e.g. 5 Urchins, 3 starfish, 7 algae = a complete
 
 After review the group 'ticked':
 * The Card and Mixed Card / Board game (a draw)
-* Mixed Ecosystems
+* Multiple Ecosystems
 * Self Interest
 * Bad Guy Mixed (game / players)
  
