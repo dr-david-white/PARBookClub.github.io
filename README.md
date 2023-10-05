@@ -7,7 +7,22 @@ Book Club Participatory Planning Page
 
 #### Climate Change:
 
-##### How would you describe your understanding of the current environmental issues impacting marine ecology?
+##### Q1. How would you describe your understanding of the current environmental issues impacting marine ecology?
+People have some basic knowledge, but are aware there is a lot more to learn
+##### Q2. Have you ever participated in any activities or initiatives related to environmental conservation? Can you describe this experience?
+A variety of answers, some 'no', many people 'do their bit' and there are a one or two exceptional examples (cleaning beaches etc). 
+##### Q3. In your opinion, how can we better educate the public about the effects of climate change on marine ecosystems?
+Most answers suggest that young children at school age should be taught this. It should be also be disseminated through social media and by example through individual actions. 
+##### Q4. What role do you think individuals can play in mitigating the impact of climate change on marine ecosystems?
+While individuals can't have an impact by themselves, there needs to be a greater momentum of all individuals and this should involve businesses. 
+##### Q5. How do you feel about the idea of using games as a medium to raise awareness and educate about environmental issues?
+While there is some scepticism, games are seen positively. They are fun, tend to be less 'preachy' and can easily be aimed at the young target audience. 
+
+#### Board Games:
+
+##### Q1. Can you describe your experience with board games? Which ones have you played and enjoyed the most?
+There is a broad awareness and engagement with this across most participants. They are seen as a family passtime, and most people have played more traditional games such as Monopoly.
+
 
 ## Session 1: Wednesday 5th July 2023
 
