@@ -22,6 +22,32 @@ While there is some scepticism, games are seen positively. They are fun, tend to
 
 ##### Q1. Can you describe your experience with board games? Which ones have you played and enjoyed the most?
 There is a broad awareness and engagement with this across most participants. They are seen as a family passtime, and most people have played more traditional games such as Monopoly.
+##### Q2. In your opinion, what makes a board game engaging and enjoyable?
+Team play, simple, short, competitive, engaging for all ages
+##### Q3. What were the names of any climate themed games you have played? If so, what was the experience like? 
+Very few people have played games in this genre. There is one response called 'Planet'
+##### Q4. How do you think board games can be used to educate players about important topics, such as environmental issues?
+Raising awareness, learning through trivia questions, making learning fun, rewarding positive choices, consider contraversial choice (self interest vs the broader good)
+##### Q5. If a board game was designed to simulate a marine ecology, what elements or features would you expect or want to see in it?
+Sharks and a variety of species. The impact of human interaction / human living footprint. 2 - 8 players. Rewarding positive decision making. 
+
+### Task 2: A high level collection of ideas and concepts to pick from
+#### Game Types: Snakes and Ladders
+A Journey
+Nothing too complicated
+Keep the board simple, include the complexity in the cards
+#### Game play: 
+Finding a balance
+Team play versus self-interest. 
+Accumulating points for prizes
+A secret mission (a secret bad-guy i.e. Among Us)
+Beating the family, ensure winners and losers
+Handing out 'bad' cards to other players (maybe some bad cards are good for other players?)
+#### Game Content:
+A variety of species - humans, ocean based, land based
+Building a balance of species - e.g. 5 Urchins, 3 starfish, 7 algae = a complete ecosystem
+
+
 
 
 ## Session 1: Wednesday 5th July 2023
