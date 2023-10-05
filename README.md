@@ -57,8 +57,19 @@ Building a balance of species - e.g. 5 Urchins, 3 starfish, 7 algae = a complete
 
 | Concept  | Dots |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Card Game  | 4  |
+| 50/50 card game / board game  |  4 |
+| 100% board game  |  1 |
+| Single Ecosystem  | 5  |
+| Multiple Ecosystems  | 7  |
+| Bad Guy = Other Players  | 2  |
+| Bad Guy = The Game  | 5  |
+| Bad Guy = Mixed (Game/Players)  | 7  |
+| Team based (working as a team)  | 0  |
+| Self interest  | 7  |
+| Mix Team / Self interest  | 3 |
+| Dice  | 2  |
+
 
 
 ## Session 1: Wednesday 5th July 2023
