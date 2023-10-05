@@ -70,7 +70,11 @@ Building a balance of species - e.g. 5 Urchins, 3 starfish, 7 algae = a complete
 | Mix Team / Self interest  | 3 |
 | Dice  | 2  |
 
-
+After review the group 'ticked':
+* The Card and Mixed Card / Board game (a draw)
+* Mixed Ecosystems
+* Self Interest
+* Bad Guy Mixed (game / players)
 
 ## Session 1: Wednesday 5th July 2023
 
