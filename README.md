@@ -38,16 +38,24 @@ Nothing too complicated
 Keep the board simple, include the complexity in the cards
 #### Game play: 
 Finding a balance
+
 Team play versus self-interest. 
+
 Accumulating points for prizes
+
 A secret mission (a secret bad-guy i.e. Among Us)
+
 Beating the family, ensure winners and losers
+
 Handing out 'bad' cards to other players (maybe some bad cards are good for other players?)
+
 #### Game Content:
 A variety of species - humans, ocean based, land based
 Building a balance of species - e.g. 5 Urchins, 3 starfish, 7 algae = a complete ecosystem
 
-| First Header  | Second Header |
+### Task 3: Putting dots on choices. Each participant can put 0, 1 or 2 dots on a type of game / concept
+
+| Concept  | Dots |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
