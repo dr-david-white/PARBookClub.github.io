@@ -47,7 +47,10 @@ Handing out 'bad' cards to other players (maybe some bad cards are good for othe
 A variety of species - humans, ocean based, land based
 Building a balance of species - e.g. 5 Urchins, 3 starfish, 7 algae = a complete ecosystem
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ## Session 1: Wednesday 5th July 2023
