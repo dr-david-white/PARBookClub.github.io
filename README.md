@@ -1,6 +1,14 @@
 # PARBookClub.github.io
 Book Club Participatory Planning Page
 
+## Session 2: Wednesday 30th August 2023
+
+### Task 1: Reviewing the data collected from Session 1
+
+#### Climate Change:
+
+##### How would you describe your understanding of the current environmental issues impacting marine ecology?
+
 ## Session 1: Wednesday 5th July 2023
 
 ### Task 1: What are the Challenges and Opportunities we face during this project?
