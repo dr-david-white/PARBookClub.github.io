@@ -75,6 +75,16 @@ After review the group 'ticked':
 * Mixed Ecosystems
 * Self Interest
 * Bad Guy Mixed (game / players)
+ 
+
+### Task 4 - A summary discussion / Starting point for the next session (designing the game!)
+The group came up with idea that:
+
+1. There are a number of cards. Each participant has the goal of creating a complete ecosystem / group. This could be a human ecosystem, marine or land based ecosystem.
+2. Some cards would be useful for more than one player (e.g. Algae could be useful for humans, plants and the ocean).
+3. Some cards are harmful, but less so for some players (e.g. a storm affects plants most, seas least)
+4. Some cards are useful for some players, and harmful for others (Fishing boats are good for humans, less so for the sea)
+
 
 ## Session 1: Wednesday 5th July 2023
 
